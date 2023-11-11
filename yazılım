@@ -1,1 +1,6 @@
-d
+a=input("isminizi giriniz: ")
+b=input("Soyadınızı giriniz: ")
+c=input("Yaşınızı giriniz: ")
+d=input("Okul numaranızı giriniz: ")
+e=(a[0])+(b[0])+(c[0])+(d[1])
+print("Giriş kodunuz {}".format(m))
